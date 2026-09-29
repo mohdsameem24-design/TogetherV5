@@ -1,0 +1,13 @@
+TOGETHER V5 - APK BUILD PACKAGE
+
+Already configured server:
+wss://together-sync-server.onrender.com/ws
+
+1. Upload the CONTENTS of this ZIP to the root of a GitHub repository.
+2. Commit the files.
+3. Open the repository's Actions tab.
+4. Open "Build Together APK".
+5. Wait for the build to complete (or choose Run workflow if needed).
+6. Open the completed run and download artifact "Together-V5-APK".
+7. Extract it to get Together-V5.apk.
+8. Install the APK on both Android phones.
